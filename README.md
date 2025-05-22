@@ -16,7 +16,7 @@ A two-player graphical Hangman game implemented in MIPS assembly language for si
 *   **Hint System:** Reveal one unguessed letter per round by entering `?`.
 
 ## Screenshots
-![image alt] (https://github.com/cemrebayer/Two-Player-Graphical-Hangman-Gam-with-Bitmap-Display/blob/027d031866a41b20cfb019911b93dadc05a158c1/Hangman%20Game%20Photo.png)
+![Image Alt](https://github.com/cemrebayer/Two-Player-Graphical-Hangman-Gam-with-Bitmap-Display/blob/0e344ade2bedc9b3dabe074725b96a18ba87fe12/Hangman%20Game%20Photo.png)
 # How to Run
 
 1.  **Clone or download** this repository.
