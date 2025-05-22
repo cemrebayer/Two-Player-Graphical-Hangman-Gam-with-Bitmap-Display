@@ -17,8 +17,7 @@ A two-player graphical Hangman game implemented in MIPS assembly language for si
 
 ## Screenshots
 
-
-<img width="317" alt="Screenshot 2025-05-22 at 13 31 34" src="https://github.com/user-attachments/assets/a02b4f5e-eda0-459f-8417-2c919df4e85f" /
+https://github.com/user-attachments/assets/a02b4f5e-eda0-459f-8417-2c919df4e85f
 
 # How to Run
 
